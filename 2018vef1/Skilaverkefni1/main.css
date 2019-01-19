@@ -1,0 +1,39 @@
+.hausraudur{
+    color: red;
+}
+.raudur{
+    color: crimson
+}
+.blar{
+    color: blue
+}
+.gran{
+    color: green
+}
+.spassia{
+    padding-left: 40px;
+}
+.midja1{
+    text-align: center
+}
+.midja1{
+    color: blue
+}
+.vis{
+    text-align: center
+}
+.vis{
+    color: red
+}
+a{
+    text-decoration: none
+}
+a:hover{
+    text-decoration: underline
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: limegreen
+}

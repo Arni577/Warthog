@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box
+}
+.box{
+    border: 4px solid crimson;
+    padding: 1em;
+    margin: 1em;
+}
+.bluebox{
+    border: 3px solid blue;
+    color: crimson;
+    text-align: center
+}
+.bluebox2{
+    border: 3px dashed blue;
+    margin: 1em;
+    padding: 1em;
+}
+.greenbox{
+    border: 3px dashed limegreen;
+    color: crimson;
+}
+.greenbox2{
+    border: 3px dashed limegreen;
+    margin: 1em;
+    padding: 1em;
+    display: inline
+}
+.redbox{
+    border: 3px dashed crimson;
+    margin: 1em;
+    padding: 1em;
+    display: inline-block
+}
+.row div{
+    float: left;
+}
+.lorem{
+    width: 33.33%;
+    border: solid 1px;
+    padding: 1em
+}
+.lorem2{
+    width: 50%;
+    border: solid 1px;
+    padding: 1em
+}
