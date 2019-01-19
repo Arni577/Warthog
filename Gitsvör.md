@@ -11,3 +11,5 @@
 ## 4. version control er gerð að forriti sem gerir manni kleift að stjórna þeim breytingum sem eru gerðar við source code yfir tíma. (Git er version control forrit)
 ## 5. Persónulega finnst mér þægilegra að not git.
 ## 6. Mér finnst að það ætti að gera commit í hvert sinn sem þú búinn að breyta einhverju mikilvægu.
+## 7. Working directory er það directory sem maður er í.
+## staging area er sá staður sem þú setur file með því að skrifa Git addog þegar þú gerir git commit þá er það tekið þaðan og sett í repository
