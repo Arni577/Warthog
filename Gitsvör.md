@@ -5,3 +5,6 @@
 ## 2. git clone býr til eftirmynd af repository inni í directory.
 ## git status sýnir öll path sem eru ekki eins og index file og núverandi HEAD commit og þau path sem eru ekki Tracked.
 ## git diff sýnir mismun milli mismunandi index, tree, blob og file on disk.
+## 3. git log sýnir öll þau commit sem þú hefur gert.
+## git checkout breytir um grein eða endurheimtar working tree files.
+## git branch sýnir öll, býr til eða eyðir branches.
